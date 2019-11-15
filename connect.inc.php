@@ -6,8 +6,8 @@
 
 try{
     $connString = "mysql:host=localhost;dbname=csci303fa19";
-    $user = "csci303fa19";
-    $pass = "csci303fa19!";
+    $user = "*********";
+    $pass = "*********";
     $pdo = new PDO($connString,$user,$pass);
     $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 }
