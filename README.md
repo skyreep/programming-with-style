@@ -10,7 +10,7 @@ http://ccuresearch.coastal.edu/sgreep/csci303fa19/forms/index.php
 
 ## Description
 
-A web-application built to demonstrate HTML, CSS, Bootstrap, PHP, and SQL.
+A web-application built to demonstrate HTML, CSS, Bootstrap, PHP, and SQL. Currently features a registration and login system.
 
 
 ## Future Development
