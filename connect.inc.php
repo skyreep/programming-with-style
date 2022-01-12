@@ -5,7 +5,7 @@
  */
 
 try{
-    $connString = "mysql:host=localhost;dbname=csci303fa19";
+    $connString = "mysql:host=localhost;dbname=***********"; //Hidden for GitHub
     $user = "*********"; //Hidden for GitHub
     $pass = "*********"; //Hidden for Github
     $pdo = new PDO($connString,$user,$pass);
