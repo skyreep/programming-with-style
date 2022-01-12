@@ -1,12 +1,7 @@
 Programming With Style
 ======
 
-![Website Preview](http://ccuresearch.coastal.edu/sgreep/csci303fa19/forms/images/thumbnail.png)
-
-
-## Live Demo
-
-http://ccuresearch.coastal.edu/sgreep/csci303fa19/forms/index.php
+![Website Preview](https://skylerreep.info/images/Card-1.png)
 
 ## Description
 
@@ -19,5 +14,6 @@ A web-application built to demonstrate HTML, CSS, Bootstrap, PHP, and SQL. Curre
   <li>GraphQL tags</li>
   <li>Improved form aesthetics</li>
   <li>User profile update capabilities</li>
+  <li>Live deployment on AWS with RDS services</li>
 </ul>
  
