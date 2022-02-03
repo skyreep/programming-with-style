@@ -14,6 +14,6 @@ A web-application built to demonstrate HTML, CSS, Bootstrap, PHP, and SQL. Curre
   <li>GraphQL tags</li>
   <li>Improved form aesthetics</li>
   <li>User profile update capabilities</li>
-  <li>Live deployment on AWS with RDS services</li>
+  <li>Live deployment on AWS</li>
 </ul>
  
